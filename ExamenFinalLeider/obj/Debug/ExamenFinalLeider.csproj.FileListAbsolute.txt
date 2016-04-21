@@ -1,0 +1,24 @@
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.exe.config
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.exe
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.pdb
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.csprojResolveAssemblyReference.cache
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Form1.resources
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Properties.Resources.resources
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.csproj.GenerateResource.Cache
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.exe
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.pdb
+C:\Users\crobles\OneDrive\Software\Visual Studio\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Vista.iuProfesor.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.exe.config
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.exe
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.pdb
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.exe
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\ExamenFinalLeider.pdb
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\System.Net.Http.dll
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\bin\Debug\System.Net.Http.xml
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Vista.iuProfesor.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Form1.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Properties.Resources.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.csproj.GenerateResource.Cache
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Vista.Principal.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.Vista.Materia.resources
+C:\Users\LRM-PROG\Documents\Examenprogra2\ExamenFinalLeider\ExamenFinalLeider\obj\Debug\ExamenFinalLeider.csprojResolveAssemblyReference.cache
